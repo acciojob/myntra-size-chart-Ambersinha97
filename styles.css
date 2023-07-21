@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+
+#firstRow {
+	background: palevioletred;
+}
+#secRow {
+	background: pink;
+}
+#thirdRow {
+	background: aliceblue;
+}
+#forthRow {
+	background: lightblue;
+}
